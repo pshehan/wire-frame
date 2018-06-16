@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.7183a341.css",
   "main.css.map": "static/css/main.7183a341.css.map",
-  "main.js": "static/js/main.fcb7bc62.js",
-  "main.js.map": "static/js/main.fcb7bc62.js.map",
+  "main.js": "static/js/main.ca50430d.js",
+  "main.js.map": "static/js/main.ca50430d.js.map",
   "static/media/Avon.jpg": "static/media/Avon.c11bbe2f.jpg",
   "static/media/Bunk.jpg": "static/media/Bunk.fab234ff.jpg",
   "static/media/Bunny.jpg": "static/media/Bunny.66defc1d.jpg",
@@ -16,17 +16,5 @@
   "static/media/Prez.jpg": "static/media/Prez.4bb609e8.jpg",
   "static/media/Stringer.jpg": "static/media/Stringer.eda99370.jpg",
   "static/media/Wilson.jpg": "static/media/Wilson.ec870419.jpg",
-  "static/media/angelfish.jpg": "static/media/angelfish.5d65332c.jpg",
-  "static/media/barracuda.jpeg": "static/media/barracuda.52f65e45.jpeg",
-  "static/media/bg1.jpg": "static/media/bg1.f0370b50.jpg",
-  "static/media/butterfly.jpg": "static/media/butterfly.321b172f.jpg",
-  "static/media/chromis.jpg": "static/media/chromis.df16d5fd.jpg",
-  "static/media/clownfish.jpg": "static/media/clownfish.1069ab6f.jpg",
-  "static/media/creolewrasse.jpg": "static/media/creolewrasse.49b9dc5f.jpg",
-  "static/media/damselfish.jpg": "static/media/damselfish.228f9d14.jpg",
-  "static/media/grunt.jpg": "static/media/grunt.06b9c316.jpg",
-  "static/media/parrotfish.jpg": "static/media/parrotfish.b27ddfcf.jpg",
-  "static/media/rockbeauty.jpg": "static/media/rockbeauty.b376e509.jpg",
-  "static/media/sergeantmajor.JPG": "static/media/sergeantmajor.4395feb1.JPG",
-  "static/media/tang.jpg": "static/media/tang.5247794b.jpg"
+  "static/media/bg1.jpg": "static/media/bg1.f0370b50.jpg"
 }
