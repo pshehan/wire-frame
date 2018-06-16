@@ -1,0 +1,13 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 25px 0 50px;
+  justify-content: space-around;
+  align-content: flex-start;
+}
+
+
+body {
+  height: 1200px;
+}

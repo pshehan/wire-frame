@@ -1,0 +1,15 @@
+.footer{
+	background-color:#333333;
+	width: 100%;
+	position: relative;
+	height: 50px;
+	padding: 15px;
+
+}
+
+.footer p {
+	font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: white;
+text-align: center;
+}
