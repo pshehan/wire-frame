@@ -1,8 +1,8 @@
-//imports dependencies and files
+//imports dependencies
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-//renders the App.js file to the root element (index.html in public folder)
+//renders the App.js file to the root element
 ReactDOM.render(<App />, document.getElementById("root"));
